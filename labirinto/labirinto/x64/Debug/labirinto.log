@@ -1,0 +1,3 @@
+﻿  labirinto.cpp
+P:\Desktop\faculdade\Codes VS C++\labirinto\labirinto\labirinto.cpp(34): warning C4715: 'Inicio': nem todos os caminhos de controle retornam um valor
+  labirinto.vcxproj -> P:\Desktop\faculdade\Codes VS C++\labirinto\x64\Debug\labirinto.exe

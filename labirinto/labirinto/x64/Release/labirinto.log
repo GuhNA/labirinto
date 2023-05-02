@@ -1,0 +1,8 @@
+﻿  Posicao.cpp
+  Gerando código
+P:\Desktop\faculdade\Codes VS C++\labirinto\labirinto\labirinto.cpp(34): warning C4715: 'Inicio': nem todos os caminhos de controle retornam um valor
+  4 of 333 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  labirinto.vcxproj -> P:\Desktop\faculdade\Codes VS C++\labirinto\x64\Release\labirinto.exe
